@@ -1,0 +1,355 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 144rem;
+}.home-page-page-1-NNb {
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+  align-items: flex-end;
+  display: flex;
+  flex-direction: column;
+  background-color: #ffffff;
+}
+.home-page-page-1-NNb .auto-group-cref-K2w {
+  margin-bottom: 1.1rem;
+  box-sizing: border-box;
+  padding: 0.3rem 8.9rem 0rem 0rem;
+  width: 145.8rem;
+  height: 17.7rem;
+  display: flex;
+  align-items: center;
+  background-color: #ffffff;
+  flex-shrink: 0;
+}
+.home-page-page-1-NNb .auto-group-cref-K2w .image-1-cGw {
+  width: 18rem;
+  height: 17.4rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.home-page-page-1-NNb .auto-group-cref-K2w .inkverse-9nf {
+  margin: 0rem 7.8rem 7.5rem 0rem;
+  font-size: 4rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  letter-spacing: 0.4rem;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: baseline;
+  flex-shrink: 0;
+}
+.home-page-page-1-NNb .auto-group-cref-K2w .inkverse-9nf .inkverse-9nf-sub-0 {
+}
+.home-page-page-1-NNb .auto-group-cref-K2w .inkverse-9nf .inkverse-9nf-sub-1 {
+  font-size: 5rem;
+  font-weight: 400;
+  line-height: 1.25;
+  letter-spacing: 0.5rem;
+  color: #000000;
+  font-family: Sedgwick Ave Display, 'Source Sans Pro';
+}
+.home-page-page-1-NNb .auto-group-cref-K2w .inkverse-9nf .inkverse-9nf-sub-2 {
+  font-size: 5.5rem;
+  font-weight: 400;
+  line-height: 1.25;
+  letter-spacing: 0.55rem;
+  color: #fe8017;
+  font-family: Sedgwick Ave Display, 'Source Sans Pro';
+}
+.home-page-page-1-NNb .auto-group-cref-K2w .inkverse-9nf .inkverse-9nf-sub-3 {
+  font-size: 5rem;
+  font-weight: 400;
+  line-height: 1.25;
+  letter-spacing: 0.5rem;
+  color: #000000;
+  font-family: Sedgwick Ave Display, 'Source Sans Pro';
+}
+.home-page-page-1-NNb .auto-group-cref-K2w .create-h5R {
+  margin: 2.3rem 2.9rem 0rem 0rem;
+  cursor: pointer;
+  font-size: 4rem;
+  font-weight: 400;
+  line-height: 1.2575;
+  color: #000000;
+  font-family: Sedan, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.home-page-page-1-NNb .auto-group-cref-K2w .pricing-bwV {
+  margin: 2.3rem 3.2rem 0rem 0rem;
+  cursor: pointer;
+  font-size: 4rem;
+  font-weight: 400;
+  line-height: 1.2575;
+  color: #000000;
+  font-family: Sedan, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.home-page-page-1-NNb .auto-group-cref-K2w .buy-sell-XaF {
+  margin: 2.3rem 28.8rem 0rem 0rem;
+  cursor: pointer;
+  font-size: 4rem;
+  font-weight: 400;
+  line-height: 1.2575;
+  color: #000000;
+  font-family: Sedan, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.home-page-page-1-NNb .auto-group-cref-K2w .item-2120967-1-fAf {
+  margin: 3.2rem 5.4rem 0rem 0rem;
+  width: 4rem;
+  height: 4rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.home-page-page-1-NNb .auto-group-cref-K2w .item-9131549-1-yBM {
+  margin-top: 2.2rem;
+  width: 7.5rem;
+  height: 7.2rem;
+  cursor: pointer;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.home-page-page-1-NNb .auto-group-lfub-gbZ {
+  width: 100%;
+  height: 16.1rem;
+  position: relative;
+  background-color: rgba(0, 0, 0, 0.5600000024);
+  flex-shrink: 0;
+}
+.home-page-page-1-NNb .auto-group-lfub-gbZ .one-stop-for-the-world-of-your-imagination-qUT {
+  width: 113rem;
+  height: 8.1rem;
+  position: absolute;
+  left: 16.9rem;
+  top: 0;
+  font-size: 5.5rem;
+  font-weight: 400;
+  line-height: 1.455;
+  color: #ffbe34;
+  font-family: Secular One, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.home-page-page-1-NNb .auto-group-lfub-gbZ .rectangle-32-8yM {
+  width: 52.6rem;
+  height: 7.1rem;
+  position: absolute;
+  left: 45.8rem;
+  top: 7.2rem;
+  background-color: #d9d9d9;
+  border-radius: 5rem;
+}
+.home-page-page-1-NNb .auto-group-lfub-gbZ .super-easy-to-create-G3y {
+  width: 35.9rem;
+  height: 5.6rem;
+  position: absolute;
+  left: 54.1rem;
+  top: 8rem;
+  font-size: 3.8rem;
+  font-weight: 400;
+  line-height: 1.455;
+  color: #3d382c;
+  font-family: Secular One, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.home-page-page-1-NNb .auto-group-jxdv-kjq {
+  box-sizing: border-box;
+  padding: 0.8rem 35rem 0.1rem 25rem;
+  width: 100%;
+  font-size: 2.7rem;
+  font-weight: 400;
+  line-height: 1.455;
+  color: #000000;
+  font-family: Secular One, 'Source Sans Pro';
+  white-space: nowrap;
+  background-color: #d9d9d9;
+  flex-shrink: 0;
+}
+.home-page-page-1-NNb .auto-group-nskt-Ef1 {
+  box-sizing: border-box;
+  padding: 2rem 4rem 2rem 0.9rem;
+  width: 100%;
+  height: 62.9rem;
+  display: flex;
+  align-items: center;
+  background-color: rgba(0, 0, 0, 0.7799999714);
+  flex-shrink: 0;
+}
+.home-page-page-1-NNb .auto-group-nskt-Ef1 .auto-group-kjxm-AYf {
+  margin: 0rem 7.4rem 3.8rem 0rem;
+  width: 74.2rem;
+  height: 55.1rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.home-page-page-1-NNb .auto-group-nskt-Ef1 .auto-group-kjxm-AYf .item-958804038394-1-tzT {
+  width: 38rem;
+  height: 38rem;
+  position: absolute;
+  left: 16.2rem;
+  top: 9.2rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.home-page-page-1-NNb .auto-group-nskt-Ef1 .auto-group-kjxm-AYf .satorugojopngimage-1-1JP {
+  width: 37.4rem;
+  height: 50.9rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  object-fit: cover;
+  vertical-align: top;
+}
+.home-page-page-1-NNb .auto-group-nskt-Ef1 .auto-group-kjxm-AYf .pngaaa-1-whq {
+  width: 47.3rem;
+  height: 50.9rem;
+  position: absolute;
+  left: 26.9rem;
+  top: 4.2rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.home-page-page-1-NNb .auto-group-nskt-Ef1 .auto-group-ufm1-UBy {
+  margin: 7.8rem 0rem 6.8rem 0rem;
+  width: 57.5rem;
+  height: calc(100% - 14.6rem);
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.home-page-page-1-NNb .auto-group-nskt-Ef1 .auto-group-ufm1-UBy .trending-comics-nCf {
+  font-size: 4rem;
+  font-weight: 400;
+  line-height: 1.2575;
+  color: #000000;
+  font-family: Seymour One, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.home-page-page-1-NNb .auto-group-nskt-Ef1 .auto-group-ufm1-UBy .auto-group-qwdq-iMD {
+  width: 100%;
+  height: 34.1rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.home-page-page-1-NNb .auto-group-nskt-Ef1 .auto-group-ufm1-UBy .auto-group-qwdq-iMD .trending-comics-Tpb {
+  width: 57.5rem;
+  height: 5.1rem;
+  position: absolute;
+  left: 0;
+  top: 29rem;
+  font-size: 4rem;
+  font-weight: 400;
+  line-height: 1.2575;
+  color: #000000;
+  font-family: Seymour One, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.home-page-page-1-NNb .auto-group-nskt-Ef1 .auto-group-ufm1-UBy .auto-group-qwdq-iMD .trending-comics-n6B {
+  width: 57.5rem;
+  height: 5.1rem;
+  position: absolute;
+  left: 0;
+  top: 14rem;
+  font-size: 4rem;
+  font-weight: 400;
+  line-height: 1.2575;
+  color: #ffffff;
+  font-family: Seymour One, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.home-page-page-1-NNb .auto-group-nskt-Ef1 .auto-group-ufm1-UBy .auto-group-qwdq-iMD .trending-comics-hD9 {
+  width: 57.5rem;
+  height: 5.1rem;
+  position: absolute;
+  left: 0;
+  top: 10rem;
+  font-size: 4rem;
+  font-weight: 400;
+  line-height: 1.2575;
+  color: #000000;
+  font-family: Seymour One, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.home-page-page-1-NNb .auto-group-nskt-Ef1 .auto-group-ufm1-UBy .auto-group-qwdq-iMD .trending-comics-Q7Z {
+  width: 57.5rem;
+  height: 5.1rem;
+  position: absolute;
+  left: 0;
+  top: 24rem;
+  font-size: 4rem;
+  font-weight: 400;
+  line-height: 1.2575;
+  color: #000000;
+  font-family: Seymour One, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.home-page-page-1-NNb .auto-group-nskt-Ef1 .auto-group-ufm1-UBy .auto-group-qwdq-iMD .trending-comics-JCw {
+  width: 57.5rem;
+  height: 5.1rem;
+  position: absolute;
+  left: 0;
+  top: 5rem;
+  font-size: 4rem;
+  font-weight: 400;
+  line-height: 1.2575;
+  color: #000000;
+  font-family: Seymour One, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.home-page-page-1-NNb .auto-group-nskt-Ef1 .auto-group-ufm1-UBy .auto-group-qwdq-iMD .trending-comics-pSB {
+  width: 57.5rem;
+  height: 5.1rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  font-size: 4rem;
+  font-weight: 400;
+  line-height: 1.2575;
+  color: #000000;
+  font-family: Seymour One, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.home-page-page-1-NNb .auto-group-nskt-Ef1 .auto-group-ufm1-UBy .auto-group-qwdq-iMD .trending-comics-kaj {
+  width: 57.5rem;
+  height: 5.1rem;
+  position: absolute;
+  left: 0;
+  top: 19rem;
+  font-size: 4rem;
+  font-weight: 400;
+  line-height: 1.2575;
+  color: #000000;
+  font-family: Seymour One, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.home-page-page-1-NNb .auto-group-nskt-Ef1 .auto-group-ufm1-UBy .trending-comics-Goy {
+  font-size: 4rem;
+  font-weight: 400;
+  line-height: 1.2575;
+  color: #000000;
+  font-family: Seymour One, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}

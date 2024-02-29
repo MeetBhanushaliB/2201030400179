@@ -1,0 +1,314 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 144rem;
+}.comic-detail-page-7-t6B {
+  box-sizing: border-box;
+  padding-bottom: 4.4rem;
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background-color: #ffffff;
+}
+.comic-detail-page-7-t6B .auto-group-lg5v-oD9 {
+  margin-bottom: 0.1rem;
+  box-sizing: border-box;
+  padding-right: 8.3rem;
+  width: 100%;
+  height: 15.9rem;
+  display: flex;
+  align-items: center;
+  background-color: #ffffff;
+  flex-shrink: 0;
+}
+.comic-detail-page-7-t6B .auto-group-lg5v-oD9 .image-3-6CF {
+  margin: 0.9rem 1.7rem 0rem 0rem;
+  width: 15.4rem;
+  height: 13.6rem;
+  cursor: pointer;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.comic-detail-page-7-t6B .auto-group-lg5v-oD9 .inkverse-CFH {
+  margin: 0rem 8.3rem 9rem 0rem;
+  cursor: pointer;
+  font-size: 4rem;
+  font-weight: 400;
+  line-height: 1.2102272034;
+  letter-spacing: 0.4rem;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: baseline;
+  flex-shrink: 0;
+}
+.comic-detail-page-7-t6B .auto-group-lg5v-oD9 .inkverse-CFH .inkverse-CFH-sub-0 {
+  font-size: 4rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  letter-spacing: 0.4rem;
+  font-style: italic;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+}
+.comic-detail-page-7-t6B .auto-group-lg5v-oD9 .inkverse-CFH .inkverse-CFH-sub-1 {
+  font-size: 5rem;
+  font-weight: 400;
+  line-height: 1.25;
+  letter-spacing: 0.5rem;
+  color: #000000;
+  font-family: Sedgwick Ave Display, 'Source Sans Pro';
+}
+.comic-detail-page-7-t6B .auto-group-lg5v-oD9 .inkverse-CFH .inkverse-CFH-sub-2 {
+  font-size: 5.5rem;
+  font-weight: 400;
+  line-height: 1.25;
+  letter-spacing: 0.55rem;
+  color: #fe8017;
+  font-family: Sedgwick Ave Display, 'Source Sans Pro';
+}
+.comic-detail-page-7-t6B .auto-group-lg5v-oD9 .inkverse-CFH .inkverse-CFH-sub-3 {
+  font-size: 5rem;
+  font-weight: 400;
+  line-height: 1.25;
+  letter-spacing: 0.5rem;
+  color: #000000;
+  font-family: Sedgwick Ave Display, 'Source Sans Pro';
+}
+.comic-detail-page-7-t6B .auto-group-lg5v-oD9 .create-N5D {
+  margin: 1.6rem 2.9rem 0rem 0rem;
+  cursor: pointer;
+  font-size: 4rem;
+  font-weight: 400;
+  line-height: 1.2575;
+  color: #000000;
+  font-family: Sedan, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.comic-detail-page-7-t6B .auto-group-lg5v-oD9 .pricing-UP9 {
+  margin: 1.6rem 3.2rem 0rem 0rem;
+  cursor: pointer;
+  font-size: 4rem;
+  font-weight: 400;
+  line-height: 1.2575;
+  color: #000000;
+  font-family: Sedan, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.comic-detail-page-7-t6B .auto-group-lg5v-oD9 .buy-sell-aSB {
+  margin: 2.4rem 30rem 0rem 0rem;
+  cursor: pointer;
+  font-size: 4rem;
+  font-weight: 400;
+  line-height: 1.2575;
+  color: #000000;
+  font-family: Sedan, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.comic-detail-page-7-t6B .auto-group-lg5v-oD9 .item-2120967-2-583 {
+  margin: 0.1rem 4.7rem 0rem 0rem;
+  width: 4rem;
+  height: 4rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.comic-detail-page-7-t6B .auto-group-lg5v-oD9 .item-9131549-4-nYF {
+  margin-top: 0.1rem;
+  width: 7.5rem;
+  height: 7.2rem;
+  cursor: pointer;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.comic-detail-page-7-t6B .rectangle-52-trB {
+  margin-bottom: 3.5rem;
+  width: 100%;
+  height: 4.7rem;
+  background-color: #b3a7a7;
+  flex-shrink: 0;
+}
+.comic-detail-page-7-t6B .auto-group-hguu-qFd {
+  margin: 0 3.4rem;
+  box-sizing: border-box;
+  padding: 4.1rem 19.2rem 8.2rem 20.2rem;
+  width: calc(100% - 6.8rem);
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background-color: #d9d9d9;
+  border-radius: 3rem;
+  flex-shrink: 0;
+}
+.comic-detail-page-7-t6B .auto-group-hguu-qFd .auto-group-7zyh-wJf {
+  margin: 0rem 0rem 2.2rem 0.7rem;
+  width: calc(100% - 0.7rem);
+  height: 54.2rem;
+  display: flex;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.comic-detail-page-7-t6B .auto-group-hguu-qFd .auto-group-7zyh-wJf .auto-group-yjwh-4PH {
+  margin-right: 8.2rem;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.comic-detail-page-7-t6B .auto-group-hguu-qFd .auto-group-7zyh-wJf .auto-group-yjwh-4PH .item-7997882807-5-PAf {
+  margin-bottom: 4.2rem;
+  width: 33.1rem;
+  height: 46.9rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.comic-detail-page-7-t6B .auto-group-hguu-qFd .auto-group-7zyh-wJf .auto-group-yjwh-4PH .price-749-ueo {
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 1.25;
+  letter-spacing: 0.24rem;
+  color: #000000;
+  font-family: Jua, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: baseline;
+  flex-shrink: 0;
+}
+.comic-detail-page-7-t6B .auto-group-hguu-qFd .auto-group-7zyh-wJf .auto-group-yjwh-4PH .price-749-ueo .price-749-ueo-sub-0 {
+}
+.comic-detail-page-7-t6B .auto-group-hguu-qFd .auto-group-7zyh-wJf .auto-group-yjwh-4PH .price-749-ueo .price-749-ueo-sub-1 {
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 1.2575;
+  letter-spacing: 0.24rem;
+  color: #000000;
+  font-family: Knewave, 'Source Sans Pro';
+}
+.comic-detail-page-7-t6B .auto-group-hguu-qFd .auto-group-7zyh-wJf .auto-group-yjwh-4PH .price-749-ueo .price-749-ueo-sub-2 {
+}
+.comic-detail-page-7-t6B .auto-group-hguu-qFd .auto-group-7zyh-wJf .auto-group-b49m-fXV {
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.comic-detail-page-7-t6B .auto-group-hguu-qFd .auto-group-7zyh-wJf .auto-group-b49m-fXV .comic-book-detail-2cw {
+  margin: 0rem 0rem 2.5rem 2rem;
+  font-size: 3.5rem;
+  font-weight: 400;
+  line-height: 1.25;
+  letter-spacing: 0.35rem;
+  color: #000000;
+  font-family: Jua, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.comic-detail-page-7-t6B .auto-group-hguu-qFd .auto-group-7zyh-wJf .auto-group-b49m-fXV .title-amazing-spider-man-item-id-314585-publisher-marvel-items-1-grading-company-cgc-serial-15484651-grade-vh-35-page-quality-off-white-to-white-description-right-edge-trimmed-publication-date-march-1963-story-the-chameleon-stikes-script-stan-lee-pencils-jack-kriby-ink-steve-ditko-characters-spider-manpeter-parkerfantastic-four-the-thingsben-grimmmrfantasticreed-richardsinvisble-girlsue-storm-key-issue-1-iEs {
+  max-width: 55.8rem;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.25;
+  color: #000000;
+  font-family: Jua, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.comic-detail-page-7-t6B .auto-group-hguu-qFd .auto-group-kkhv-enj {
+  margin-right: 63.2rem;
+  width: calc(100% - 63.2rem);
+  height: 5.2rem;
+  display: flex;
+  align-items: flex-end;
+  flex-shrink: 0;
+}
+.comic-detail-page-7-t6B .auto-group-hguu-qFd .auto-group-kkhv-enj .auto-group-fgmd-nP9 {
+  box-sizing: border-box;
+  padding: 0.3rem 1.8rem 0.3rem 0.7rem;
+  height: 5rem;
+  display: flex;
+  align-items: center;
+  box-shadow: 0 0.4rem 0.4rem rgba(0, 0, 0, 0.25);
+  background-color: #d9d9d9;
+  border-radius: 2rem;
+  flex-shrink: 0;
+}
+.comic-detail-page-7-t6B .auto-group-hguu-qFd .auto-group-kkhv-enj .auto-group-fgmd-nP9 .item-14618301-5-7AX {
+  margin: 0rem 1.3rem 0.5rem 0rem;
+  width: 3rem;
+  height: 3.9rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.comic-detail-page-7-t6B .auto-group-hguu-qFd .auto-group-kkhv-enj .auto-group-fgmd-nP9 .add-to-cart-dPm {
+  margin-bottom: 0.4rem;
+  cursor: pointer;
+  font-size: 1.7rem;
+  font-weight: 400;
+  line-height: 1.25;
+  letter-spacing: 0.17rem;
+  color: #000000;
+  font-family: Jua, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.comic-detail-page-7-t6B .auto-group-hguu-qFd .auto-group-kkhv-enj .auto-group-7cab-gN3 {
+  width: 17.3rem;
+  height: 100%;
+  position: relative;
+  flex-shrink: 0;
+}
+.comic-detail-page-7-t6B .auto-group-hguu-qFd .auto-group-kkhv-enj .auto-group-7cab-gN3 .rectangle-57-DMy {
+  width: 17.3rem;
+  height: 5rem;
+  cursor: pointer;
+  position: absolute;
+  left: 0;
+  top: 0.2rem;
+  box-shadow: 0 0.4rem 0.4rem rgba(0, 0, 0, 0.25);
+  background-color: #d9d9d9;
+  border-radius: 2rem;
+}
+.comic-detail-page-7-t6B .auto-group-hguu-qFd .auto-group-kkhv-enj .auto-group-7cab-gN3 .item-14618301-6-sBd {
+  width: 2.9rem;
+  height: 3.9rem;
+  position: absolute;
+  left: 2.6rem;
+  top: 0;
+  object-fit: cover;
+  vertical-align: top;
+}
+.comic-detail-page-7-t6B .auto-group-hguu-qFd .auto-group-kkhv-enj .auto-group-7cab-gN3 .buy-now-Pvf {
+  width: 7.4rem;
+  height: 2.2rem;
+  position: absolute;
+  left: 8.1rem;
+  top: 1.1rem;
+  font-size: 1.7rem;
+  font-weight: 400;
+  line-height: 1.25;
+  letter-spacing: 0.17rem;
+  color: #000000;
+  font-family: Jua, 'Source Sans Pro';
+  white-space: nowrap;
+}

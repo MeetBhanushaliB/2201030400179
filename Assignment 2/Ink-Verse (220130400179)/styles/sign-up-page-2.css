@@ -1,0 +1,328 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 144rem;
+}.sign-up-page-2-hsd {
+  width: 100%;
+  height: 102.4rem;
+  position: relative;
+  overflow: hidden;
+  box-shadow: 0 0.4rem 0.4rem rgba(0, 0, 0, 0.25);
+  background-color: #ffffff;
+}
+.sign-up-page-2-hsd .rectangle-56-5tB {
+  width: 136.1rem;
+  height: 92.2rem;
+  position: absolute;
+  left: 4.4rem;
+  top: 4.9rem;
+  background-color: rgba(0, 0, 0, 0.6000000238);
+  border-radius: 3rem;
+}
+.sign-up-page-2-hsd .rectangle-35-aby {
+  width: 144rem;
+  height: 102.4rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  background-color: rgba(0, 0, 0, 0.7799999714);
+}
+.sign-up-page-2-hsd .rectangle-2-Gjh {
+  width: 144rem;
+  height: 102.4rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  object-fit: contain;
+  vertical-align: top;
+}
+.sign-up-page-2-hsd .inkverse-Qqu {
+  width: 13.784rem;
+  height: 5.5rem;
+  position: absolute;
+  left: 65rem;
+  top: 17.2rem;
+  display: flex;
+  align-items: center;
+}
+.sign-up-page-2-hsd .inkverse-Qqu .auto-group-rw8o-6Tq {
+  box-sizing: border-box;
+  padding: 1.8rem 0.536rem 1.155rem 0rem;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.sign-up-page-2-hsd .inkverse-Qqu .auto-group-rw8o-6Tq .vector-mZy {
+  margin-right: 0.5783rem;
+  width: 0.3082rem;
+  height: 2.5455rem;
+  background-color: #ffffff;
+  flex-shrink: 0;
+}
+.sign-up-page-2-hsd .inkverse-Qqu .auto-group-rw8o-6Tq .vector-tPh {
+  margin-top: 0.6115rem;
+  width: 1.5114rem;
+  height: 1.9339rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.sign-up-page-2-hsd .inkverse-Qqu .auto-group-4lcp-DB5 {
+  margin-right: 0.4462rem;
+  width: 5.6822rem;
+  height: 100%;
+  position: relative;
+  flex-shrink: 0;
+}
+.sign-up-page-2-hsd .inkverse-Qqu .auto-group-4lcp-DB5 .vector-MYB {
+  width: 1.6804rem;
+  height: 1.9737rem;
+  position: absolute;
+  left: 4.0018rem;
+  top: 2.4115rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.sign-up-page-2-hsd .inkverse-Qqu .auto-group-4lcp-DB5 .vector-6Es {
+  width: 1.5859rem;
+  height: 2.5455rem;
+  position: absolute;
+  left: 0;
+  top: 1.8rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.sign-up-page-2-hsd .inkverse-Qqu .auto-group-4lcp-DB5 .v-dkb {
+  width: 3.1rem;
+  height: 5.5rem;
+  position: absolute;
+  left: 1.4661rem;
+  top: 0;
+  font-size: 4.5rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #ffb700;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.sign-up-page-2-hsd .inkverse-Qqu .vector-79y {
+  margin: 1.252rem 0.263rem 0rem 0rem;
+  width: 0.9545rem;
+  height: 1.9389rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.sign-up-page-2-hsd .inkverse-Qqu .vector-2Xq {
+  margin: 1.297rem 0.352rem 0rem 0rem;
+  width: 1.4716rem;
+  height: 1.9737rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.sign-up-page-2-hsd .inkverse-Qqu .vector-Ma7 {
+  margin-top: 1.2967rem;
+  width: 1.6804rem;
+  height: 1.9737rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.sign-up-page-2-hsd .sign-up-hP5 {
+  width: 8.9rem;
+  height: 3.1rem;
+  position: absolute;
+  left: 66.6rem;
+  top: 23.2rem;
+  font-size: 2.5rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.sign-up-page-2-hsd .rectangle-6-BZ9 {
+  width: 49.9rem;
+  height: 6.6rem;
+  cursor: pointer;
+  position: absolute;
+  left: 47.1rem;
+  top: 33.4rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.sign-up-page-2-hsd .item-10100869-1-i3H {
+  width: 3.1rem;
+  height: 3.3rem;
+  position: absolute;
+  left: 50.5rem;
+  top: 35rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.sign-up-page-2-hsd .your-name-23y {
+  width: 13rem;
+  height: 3.1rem;
+  position: absolute;
+  left: 58rem;
+  top: 35.2rem;
+  font-size: 2.5rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.sign-up-page-2-hsd .rectangle-7-8Mu {
+  width: 49.9rem;
+  height: 6.6rem;
+  cursor: pointer;
+  position: absolute;
+  left: 46rem;
+  top: 42.3rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.sign-up-page-2-hsd .your-e-mail-GDD {
+  width: 13.5rem;
+  height: 3.1rem;
+  position: absolute;
+  left: 57.8rem;
+  top: 44.1rem;
+  font-size: 2.5rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.sign-up-page-2-hsd .item-542689-1-ydR {
+  width: 5.7rem;
+  height: 5rem;
+  position: absolute;
+  left: 49.2rem;
+  top: 43.1rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.sign-up-page-2-hsd .rectangle-8-Jvb {
+  width: 49.9rem;
+  height: 6.6rem;
+  cursor: pointer;
+  position: absolute;
+  left: 47.1rem;
+  top: 51.2rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.sign-up-page-2-hsd .create-password-eDm {
+  width: 20.4rem;
+  height: 3.1rem;
+  position: absolute;
+  left: 58rem;
+  top: 53rem;
+  font-size: 2.5rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.sign-up-page-2-hsd .item-13953528-1-9RR {
+  width: 5.7rem;
+  height: 4rem;
+  position: absolute;
+  left: 49.2rem;
+  top: 52.5rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.sign-up-page-2-hsd .rectangle-9-UTh {
+  width: 49.9rem;
+  height: 6.6rem;
+  cursor: pointer;
+  position: absolute;
+  left: 46.9rem;
+  top: 60.1rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.sign-up-page-2-hsd .re-enter-password-boD {
+  width: 22.9rem;
+  height: 3.1rem;
+  position: absolute;
+  left: 57.8rem;
+  top: 61.9rem;
+  font-size: 2.5rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.sign-up-page-2-hsd .item-13953528-2-Vtb {
+  width: 5.7rem;
+  height: 4rem;
+  position: absolute;
+  left: 49rem;
+  top: 61.4rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.sign-up-page-2-hsd .rectangle-42-nMu {
+  width: 2.6rem;
+  height: 2.5rem;
+  position: absolute;
+  left: 57.8rem;
+  top: 72rem;
+  background-color: #d9d9d9;
+}
+.sign-up-page-2-hsd .remember-me-7uy {
+  width: 17.2rem;
+  height: 3.1rem;
+  position: absolute;
+  left: 62.7rem;
+  top: 71.8rem;
+  font-size: 2.5rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.sign-up-page-2-hsd .rectangle-54-21M {
+  width: 19.9rem;
+  height: 3rem;
+  position: absolute;
+  left: 84.7rem;
+  top: 71.8rem;
+  background-color: #241e50;
+}
+.sign-up-page-2-hsd .lets-go--xfh {
+  width: 9.8rem;
+  height: 2.5rem;
+  cursor: pointer;
+  position: absolute;
+  left: 88.8rem;
+  top: 72.3rem;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}

@@ -1,0 +1,395 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 144rem;
+}.characters-page-4-ejy {
+  width: 100%;
+  height: 102.4rem;
+  position: relative;
+  overflow: hidden;
+  background-color: #a4a0a0;
+}
+.characters-page-4-ejy .rectangle-18-ijq {
+  width: 144rem;
+  height: 4.5rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  background-color: #c65b5b;
+}
+.characters-page-4-ejy .rectangle-20-EiB {
+  width: 144rem;
+  height: 12.4rem;
+  position: absolute;
+  left: 0;
+  top: 4.6rem;
+  background-color: #8dac35;
+}
+.characters-page-4-ejy .inkverse-NpP {
+  width: 12.9rem;
+  height: 3.8rem;
+  cursor: pointer;
+  position: absolute;
+  left: 6rem;
+  top: 0;
+  font-size: 3rem;
+  font-weight: 400;
+  line-height: 1.2102272034;
+  letter-spacing: 0.3rem;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: baseline;
+}
+.characters-page-4-ejy .inkverse-NpP .inkverse-NpP-sub-0 {
+  font-size: 3rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  letter-spacing: 0.3rem;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+}
+.characters-page-4-ejy .inkverse-NpP .inkverse-NpP-sub-1 {
+  font-size: 3rem;
+  font-weight: 400;
+  line-height: 1.25;
+  letter-spacing: 0.3rem;
+  color: #000000;
+  font-family: Sedgwick Ave Display, 'Source Sans Pro';
+}
+.characters-page-4-ejy .inkverse-NpP .inkverse-NpP-sub-2 {
+  font-size: 3rem;
+  font-weight: 400;
+  line-height: 1.25;
+  letter-spacing: 0.3rem;
+  color: #fe811d;
+  font-family: Sedgwick Ave Display, 'Source Sans Pro';
+}
+.characters-page-4-ejy .inkverse-NpP .inkverse-NpP-sub-3 {
+  font-size: 3rem;
+  font-weight: 400;
+  line-height: 1.25;
+  letter-spacing: 0.3rem;
+  color: #000000;
+  font-family: Sedgwick Ave Display, 'Source Sans Pro';
+}
+.characters-page-4-ejy .image-1-CqM {
+  width: 5.1rem;
+  height: 4.3rem;
+  cursor: pointer;
+  position: absolute;
+  left: 0;
+  top: 0;
+  object-fit: cover;
+  vertical-align: top;
+}
+.characters-page-4-ejy .rectangle-22-kM5 {
+  width: 30rem;
+  height: 85.2rem;
+  position: absolute;
+  left: 0;
+  top: 16.9rem;
+  background-color: #9fb8b8;
+}
+.characters-page-4-ejy .rectangle-45-Hbu {
+  width: 114rem;
+  height: 85.5rem;
+  position: absolute;
+  left: 30rem;
+  top: 16.9rem;
+  background-color: #d9d9d9;
+}
+.characters-page-4-ejy .rectangle-24-dfm {
+  width: 97.9rem;
+  height: 73.1rem;
+  position: absolute;
+  left: 38.7rem;
+  top: 23rem;
+  background-color: #d9d9d9;
+}
+.characters-page-4-ejy .white-paper-texture-1-ZJX {
+  width: 98.4rem;
+  height: 73.1rem;
+  position: absolute;
+  left: 38.7rem;
+  top: 23rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.characters-page-4-ejy .scenes-gtw {
+  width: 8.7rem;
+  height: 3.1rem;
+  cursor: pointer;
+  position: absolute;
+  left: 21.95rem;
+  top: 0.5rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 2.5rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.characters-page-4-ejy .characters-z8w {
+  width: 13.7rem;
+  height: 3.1rem;
+  position: absolute;
+  left: 34.35rem;
+  top: 0.5rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 2.5rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.characters-page-4-ejy .items-HNw {
+  width: 6.5rem;
+  height: 3.1rem;
+  cursor: pointer;
+  position: absolute;
+  left: 52.85rem;
+  top: 0.5rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 2.5rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.characters-page-4-ejy .shapes-zYF {
+  width: 8.8rem;
+  height: 3.1rem;
+  cursor: pointer;
+  position: absolute;
+  left: 66.6rem;
+  top: 0.1rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 2.5rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.characters-page-4-ejy .rectangle-25-hBm {
+  width: 14.3rem;
+  height: 4.5rem;
+  position: absolute;
+  left: 129.7rem;
+  top: 0;
+  background-color: #d9d9d9;
+  border-radius: 10rem;
+}
+.characters-page-4-ejy .upload-1y9 {
+  width: 8.6rem;
+  height: 3.1rem;
+  position: absolute;
+  left: 132.25rem;
+  top: 0.7rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 2.5rem;
+  font-weight: 600;
+  line-height: 1.2125;
+  font-style: italic;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.characters-page-4-ejy .rectangle-27-KD9 {
+  width: 22.1rem;
+  height: 14.8rem;
+  position: absolute;
+  left: 3.9rem;
+  top: 25.1rem;
+  background-color: #fffdfd;
+}
+.characters-page-4-ejy .rectangle-28-SoZ {
+  width: 22.1rem;
+  height: 14.8rem;
+  position: absolute;
+  left: 3.9rem;
+  top: 44.7rem;
+  background-color: #fffdfd;
+}
+.characters-page-4-ejy .rectangle-29-aum {
+  width: 22.1rem;
+  height: 14.8rem;
+  position: absolute;
+  left: 3.9rem;
+  top: 64.3rem;
+  background-color: #fffdfd;
+}
+.characters-page-4-ejy .page-1-8RV {
+  width: 4rem;
+  height: 1.8rem;
+  position: absolute;
+  left: 18rem;
+  top: 40.1rem;
+  font-size: 1.5rem;
+  font-weight: 300;
+  line-height: 1.1975;
+  color: #000000;
+  font-family: Inria Sans, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.characters-page-4-ejy .page-2-3HZ {
+  width: 4.2rem;
+  height: 1.8rem;
+  position: absolute;
+  left: 18.3rem;
+  top: 59.7rem;
+  font-size: 1.5rem;
+  font-weight: 300;
+  line-height: 1.1975;
+  color: #000000;
+  font-family: Inria Sans, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.characters-page-4-ejy .page-3-kSs {
+  width: 4.2rem;
+  height: 1.8rem;
+  position: absolute;
+  left: 18.3rem;
+  top: 79.3rem;
+  font-size: 1.5rem;
+  font-weight: 300;
+  line-height: 1.1975;
+  color: #000000;
+  font-family: Inria Sans, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.characters-page-4-ejy .image-2-TMH {
+  width: 6.4rem;
+  height: 11.9rem;
+  position: absolute;
+  left: 29.6rem;
+  top: 4.8rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.characters-page-4-ejy .image-3-bCb {
+  width: 5.9rem;
+  height: 11.1rem;
+  position: absolute;
+  left: 3.9rem;
+  top: 5.4rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.characters-page-4-ejy .item-103-1-XM9 {
+  width: 4.4rem;
+  height: 12.3rem;
+  position: absolute;
+  left: 83.3rem;
+  top: 5rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.characters-page-4-ejy .item-103-2-46B {
+  width: 6.9rem;
+  height: 11.9rem;
+  position: absolute;
+  left: 55.8rem;
+  top: 4.6rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.characters-page-4-ejy .item-101-1-yiw {
+  width: 7.6rem;
+  height: 12.9rem;
+  position: absolute;
+  left: 129rem;
+  top: 5rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.characters-page-4-ejy .image-4-hQ3 {
+  width: 7.2rem;
+  height: 13rem;
+  position: absolute;
+  left: 103.6rem;
+  top: 4rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.characters-page-4-ejy .rectangle-37-doV {
+  width: 14.3rem;
+  height: 4.5rem;
+  cursor: pointer;
+  position: absolute;
+  left: 112.9rem;
+  top: 0;
+  background-color: #d9d9d9;
+  border-radius: 10rem;
+}
+.characters-page-4-ejy .save-MzP {
+  width: 5.9rem;
+  height: 3.1rem;
+  position: absolute;
+  left: 117.1rem;
+  top: 2.2rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 2.5rem;
+  font-weight: 600;
+  line-height: 1.2125;
+  font-style: italic;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.characters-page-4-ejy .white-paper-texture-5-59h {
+  width: 22.1rem;
+  height: 14.7rem;
+  position: absolute;
+  left: 3.9rem;
+  top: 25.1rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.characters-page-4-ejy .white-paper-texture-6-Ck7 {
+  width: 22.1rem;
+  height: 14.7rem;
+  position: absolute;
+  left: 3.9rem;
+  top: 64.4rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.characters-page-4-ejy .white-paper-texture-7-JHM {
+  width: 22.1rem;
+  height: 14.7rem;
+  position: absolute;
+  left: 3.9rem;
+  top: 44.9rem;
+  object-fit: cover;
+  vertical-align: top;
+}

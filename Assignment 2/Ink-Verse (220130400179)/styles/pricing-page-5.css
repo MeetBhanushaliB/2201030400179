@@ -1,0 +1,220 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 144rem;
+}.pricing-page-5-SxF {
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  background-color: #ffffff;
+}
+.pricing-page-5-SxF .auto-group-gqbh-nFR {
+  margin-bottom: 1.4rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.pricing-page-5-SxF .auto-group-gqbh-nFR .image-2-84P {
+  margin-top: 2.3rem;
+  width: 15.4rem;
+  height: 13.6rem;
+  cursor: pointer;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.pricing-page-5-SxF .auto-group-gqbh-nFR .inkverse-Sqm {
+  margin: 0rem 80rem 9rem 0rem;
+  cursor: pointer;
+  font-size: 4rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  letter-spacing: 0.4rem;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: baseline;
+  flex-shrink: 0;
+}
+.pricing-page-5-SxF .auto-group-gqbh-nFR .inkverse-Sqm .inkverse-Sqm-sub-0 {
+}
+.pricing-page-5-SxF .auto-group-gqbh-nFR .inkverse-Sqm .inkverse-Sqm-sub-1 {
+  font-size: 5rem;
+  font-weight: 400;
+  line-height: 1.25;
+  letter-spacing: 0.5rem;
+  color: #000000;
+  font-family: Sedgwick Ave Display, 'Source Sans Pro';
+}
+.pricing-page-5-SxF .auto-group-gqbh-nFR .inkverse-Sqm .inkverse-Sqm-sub-2 {
+  font-size: 5.5rem;
+  font-weight: 400;
+  line-height: 1.25;
+  letter-spacing: 0.55rem;
+  color: #fe8017;
+  font-family: Sedgwick Ave Display, 'Source Sans Pro';
+}
+.pricing-page-5-SxF .auto-group-gqbh-nFR .inkverse-Sqm .inkverse-Sqm-sub-3 {
+  font-size: 5rem;
+  font-weight: 400;
+  line-height: 1.25;
+  letter-spacing: 0.5rem;
+  color: #000000;
+  font-family: Sedgwick Ave Display, 'Source Sans Pro';
+}
+.pricing-page-5-SxF .auto-group-gqbh-nFR .item-2120967-2-Vb5 {
+  margin: 3.1rem 5.4rem 0rem 0rem;
+  width: 4rem;
+  height: 4rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.pricing-page-5-SxF .auto-group-gqbh-nFR .item-14018647-2-QCF {
+  margin-top: 3.2rem;
+  width: 14.5rem;
+  height: 10.1rem;
+  cursor: pointer;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.pricing-page-5-SxF .rectangle-41-L5u {
+  width: 100%;
+  height: 4.7rem;
+  background-color: #a4a0a0;
+  flex-shrink: 0;
+}
+.pricing-page-5-SxF .auto-group-15hr-5pB {
+  box-sizing: border-box;
+  padding: 14rem 20.4rem 14.5rem 17.1rem;
+  width: 100%;
+  height: 88.8rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/image-11-bg.png');
+  flex-shrink: 0;
+}
+.pricing-page-5-SxF .auto-group-15hr-5pB .auto-group-4ztv-mS7 {
+  margin: 0rem 4.7rem 3.7rem 5.2rem;
+  width: calc(100% - 9.9rem);
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.pricing-page-5-SxF .auto-group-15hr-5pB .auto-group-4ztv-mS7 .starter-VN7 {
+  margin: 0rem 37.5rem 0.7rem 0rem;
+  font-size: 8rem;
+  font-weight: 400;
+  line-height: 1.25;
+  letter-spacing: 0.8rem;
+  color: #000000;
+  font-family: Sedgwick Ave Display, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.pricing-page-5-SxF .auto-group-15hr-5pB .auto-group-4ztv-mS7 .premium-aeT {
+  margin-top: 0.7rem;
+  font-size: 8rem;
+  font-weight: 400;
+  line-height: 1.25;
+  letter-spacing: 0.8rem;
+  color: #000000;
+  font-family: Sedgwick Ave Display, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.pricing-page-5-SxF .auto-group-15hr-5pB .auto-group-vjr5-tQF {
+  margin-bottom: 7rem;
+  width: 100%;
+  display: flex;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.pricing-page-5-SxF .auto-group-15hr-5pB .auto-group-vjr5-tQF .library-with-up-to-40-books-create-books-with-a-range-of-multimedia-tools-appsmash-with-other-educational-apps-100-accessibility-features-read-with-word-highlighting-text-to-voice-publish-books-online-in-app-certification-course-access-to-lesson-ideas-example-books-resources-SRm {
+  margin-right: 37.3rem;
+  max-width: 35.4rem;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.2575;
+  letter-spacing: 0.2rem;
+  color: #000000;
+  font-family: Sedan, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.pricing-page-5-SxF .auto-group-15hr-5pB .auto-group-vjr5-tQF .all-starter-plan-features-create-unlimited-libraries-1000-books-real-time-collaboration-support-for-co-teachers-access-to-premium-apps-analytics-map-see-where-your-books-have-been-read-in-app-chat-support-px7 {
+  max-width: 37.2rem;
+  font-size: 2.3rem;
+  font-weight: 400;
+  line-height: 1.2575;
+  letter-spacing: 0.23rem;
+  color: #000000;
+  font-family: Sedan, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.pricing-page-5-SxF .auto-group-15hr-5pB .auto-group-2qfu-fhq {
+  margin: 0rem 4.2rem 0rem 1.5rem;
+  width: calc(100% - 5.7rem);
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.pricing-page-5-SxF .auto-group-15hr-5pB .auto-group-2qfu-fhq .item-8726866-1-9su {
+  margin: 0rem 1.8rem 1.3rem 0rem;
+  width: 7.3rem;
+  height: 7.4rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.pricing-page-5-SxF .auto-group-15hr-5pB .auto-group-2qfu-fhq .you-need-to-login-first-frF {
+  margin: 0rem 40.8rem 0.1rem 0rem;
+  cursor: pointer;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.2575;
+  letter-spacing: 0.2rem;
+  color: #000000;
+  font-family: Sedan, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.pricing-page-5-SxF .auto-group-15hr-5pB .auto-group-2qfu-fhq .item-8726866-2-Nkf {
+  margin: 1.3rem 1.8rem 0rem 0rem;
+  width: 7.3rem;
+  height: 7.4rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.pricing-page-5-SxF .auto-group-15hr-5pB .auto-group-2qfu-fhq .you-need-to-login-first-uVh {
+  margin-top: 2.5rem;
+  cursor: pointer;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.2575;
+  letter-spacing: 0.2rem;
+  color: #000000;
+  font-family: Sedan, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
